@@ -12,8 +12,8 @@ Measures distance with an HC-SR04 sensor and turns on an LED when an object is c
 |---------|---------|
 | VCC     | 5V      |
 | GND     | GND     |
-| Trig    | D9      |
-| Echo    | D10     |
+| Trig    | D10     |
+| Echo    | D9      |
 
 ## How it works
 The sensor sends a pulse and measures the echo time. Distance = time × 0.0343 / 2.
